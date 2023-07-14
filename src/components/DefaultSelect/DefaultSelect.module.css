@@ -1,0 +1,12 @@
+.input {
+  margin-bottom: 8px;
+  padding: 2px 5px;
+}
+.control {
+  display: flex;
+}
+
+.form-select {
+  padding: 2px 5px;
+  width: 155px;
+}

@@ -1,0 +1,53 @@
+#container {
+  width: 30%;
+  min-width: 350px;
+  border: solid 1px black;
+  padding: 40px 10px;
+  margin: auto;
+  margin-top: 10%;
+}
+
+#title {
+  background-color: white;
+  padding: 3px;
+  position: relative;
+  bottom: 49px;
+  color: darkcyan;
+}
+
+.input {
+  margin-bottom: 8px;
+  padding: 2px 5px;
+}
+.control {
+  display: flex;
+}
+
+.form-label {
+  margin-right: 10px;
+  white-space: nowrap;
+}
+
+.form-input {
+  width: 155px;
+}
+
+.form-select {
+  padding: 2px 5px;
+  width: 155px;
+}
+
+#submit {
+  position: relative;
+  text-align: end;
+  width: 90%;
+}
+
+#message {
+  position: absolute;
+}
+
+button {
+  background-color: lightgrey;
+  padding: 2px 5px;
+}

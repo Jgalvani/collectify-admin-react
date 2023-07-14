@@ -1,0 +1,41 @@
+#container {
+  width: 45%;
+  min-width: 800px;
+  border: solid 1px black;
+  padding: 40px 0 30px 30px;
+  margin: auto;
+  margin-top: 10%;
+}
+
+#title {
+  background-color: white;
+  padding: 3px;
+  position: relative;
+  bottom: 49px;
+  color: darkcyan;
+}
+
+table {
+  border-collapse: collapse;
+  border: solid 1px black;
+  text-align: center;
+}
+
+.header {
+  padding: 2px 10px 2px 2px;
+  background-color: grey;
+  border-right: solid 1px black;
+}
+
+.row.grey {
+  background-color: lightgrey;
+}
+
+.row.cell {
+  padding: 5px 10px 5px 2px;
+  border-right: solid 1px black;
+}
+
+td {
+  padding-left: 10px;
+}
